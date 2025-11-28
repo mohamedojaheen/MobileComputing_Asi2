@@ -69,4 +69,4 @@ cloud_firestore: ^5.4.4
 ```
 
 ---
-Mobile Programming Assignment
+Mobile Computing Assignment
